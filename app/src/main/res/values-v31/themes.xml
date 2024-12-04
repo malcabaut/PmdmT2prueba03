@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.PmdmT2prueba03" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Icono animado para API 31+ -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splashscreen_mario</item>
+        <item name="android:windowSplashScreenBackground">@color/material_on_surface_stroke</item>
+        <item name="android:windowSplashScreenAnimationDuration">@integer/splash_duration</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+</resources>

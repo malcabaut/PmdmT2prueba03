@@ -2,6 +2,12 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.PmdmT2prueba03" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
+
+        <!-- Para API < 31: SplashScreen se tiene que gestionar con una Activity. -->
+        <!-- Para API < 31: Pongo una imagen de fondo centrada para simular la SplashScreen -->
+        <item name="android:windowBackground">@drawable/splashscreen_mario_layer</item>
+
+
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 

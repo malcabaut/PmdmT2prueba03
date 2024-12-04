@@ -6,7 +6,7 @@
 
         <!-- Icono animado para API 31+ -->
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/splashscreen_mario</item>
-        <item name="android:windowSplashScreenBackground">@color/material_on_surface_stroke</item>
+        <item name="android:windowSplashScreenBackground">@color/red_DD</item>
         <item name="android:windowSplashScreenAnimationDuration">@integer/splash_duration</item>
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
